@@ -1,5 +1,5 @@
 task "ci" {
-  command = "test.sh"
+  command = "./test.sh"
   runnerType = "Shell"
   workDir = "./AWholeNewOrg/furry-engine"
   env = {
