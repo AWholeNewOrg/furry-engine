@@ -15,3 +15,4 @@ task "failing ci" {
     FOO = "FOO"
   }
 }
+
